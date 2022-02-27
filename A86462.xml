@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Hollanders embassage to England. Concerning, the good will which they bear to the Protestants in Ireland: signified in a letter which they sent to Sir Iohn Penington, vice-admirall of his Majesties fleet. Also, his letter, and their answer. As also. The description of the sea-fight, which was between the Hollanders, and the navie belonging to Dunkirk, which was provided to ayd the rebels in Ireland: the Hollanders getting the conquest, and they the overthrow. With, the humble petition of the inhabitants of the countie of Essex: to the honourable knights and burgesses of the House of Commons in Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86462</idno>
+            <idno type="STC">Wing H2446</idno>
+            <idno type="STC">Thomason E131_31</idno>
+            <idno type="STC">ESTC R9030</idno>
+            <idno type="EEBO-CITATION">99873453</idno>
+            <idno type="PROQUEST">99873453</idno>
+            <idno type="VID">156346</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156346)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E131[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Hollanders embassage to England. Concerning, the good will which they bear to the Protestants in Ireland: signified in a letter which they sent to Sir Iohn Penington, vice-admirall of his Majesties fleet. Also, his letter, and their answer. As also. The description of the sea-fight, which was between the Hollanders, and the navie belonging to Dunkirk, which was provided to ayd the rebels in Ireland: the Hollanders getting the conquest, and they the overthrow. With, the humble petition of the inhabitants of the countie of Essex: to the honourable knights and burgesses of the House of Commons in Parliament.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, for Iohn Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Penington, John, --  Sir, 1568?-1646.</term>
+               <term>Protestants --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Naval operations --  Early works to 1800.</term>
+               <term>Essex (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156346:1" rendition="simple:additions"/>
+            <p>THE HOLLANDERS EMBASSAGE TO ENGLAND.</p>
+            <p>
+               <hi>Concerning,</hi> The good will which they bear to the Proteſtants in <hi>Ireland:</hi> Signified in a Letter which they ſent to Sir <hi>Iohn Penington,</hi> Vice-Admirall of his Majeſties Fleet.</p>
+            <p>
+               <hi>ALSO,</hi> His LETTER, and their ANSWER.</p>
+            <p>AS ALSO. <hi>The Deſcription of the</hi> Sea-fight, <hi>which was between the</hi> Hol<g ref="char:EOLhyphen"/>landers, <hi>and the Navie belonging to</hi> Dunkirk, <hi>which was provided to ayd the Rebels in</hi> Ireland: <hi>the</hi> Hollan<g ref="char:EOLhyphen"/>ders <hi>getting the Conqueſt, and they the Overthrow.</hi>
+            </p>
+            <p>WITH, The humble Petition of the inhabitants of the Countie of <hi>Eſſex:</hi> To the honourable Knights and Burgeſſes of the Houſe of COMMONS in Parliament.</p>
+            <p>London printed, for <hi>Iohn Smith.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:156346:2"/>
+            <pb facs="tcp:156346:2"/>
+            <head>THE HOLLANDERS <hi>Embaſſage to</hi> ENGLAND.</head>
+            <p>
+               <seg rend="decorInit">L</seg>ET no Roman Catho<g ref="char:EOLhyphen"/>like look or caſt a view upon theſe lines, leſt he find himſelf more ſhook, than one trou<g ref="char:EOLhyphen"/>bled with a Tertian Ague: for he ſhall find here no comfort, but many croſſes, no Pope worſhipped, but in the Highway to be confoun<g ref="char:EOLhyphen"/>ded. No treaſon broaching, but traytors ſet on tilt, all Popiſh dregs being caſt forth for the di<g ref="char:EOLhyphen"/>vell to feed upon. No Peace proclaimed to the Babyloniſh Whore, but a bloody warre; no Comedie but a Tragedie. Performed not alone by the <hi>Engliſh,</hi> but alſo by true and noble ſpi<g ref="char:EOLhyphen"/>rited <hi>Hollanders,</hi> whoſe love to <hi>England</hi> hath, and is daily expreſſed, which the <hi>Spaniard</hi> is able
+<pb facs="tcp:156346:3"/>to witneſſe; but not delight to heare of, in regard that their plate hath ſo often ſupplyed the Hol<g ref="char:EOLhyphen"/>landers coffers, in ſpite of Spains proudeſt Dons or Romes malicious curſes, who are able to do as much harme as their bleſsings good.</p>
+            <p>O what a heart-aching to them was that hap<g ref="char:EOLhyphen"/>py Marriage; of our High-born Princeſſe the Lady <hi>Marie</hi> to that worthy Prince <hi>William</hi> of <hi>Naſſau</hi> Prince of <hi>Orange,</hi> ſure it was as pre<g ref="char:EOLhyphen"/>judiciall unto them, as their overthrow in eigh<g ref="char:EOLhyphen"/>tie, eight: but it is ours and <hi>Hollands</hi> joy, whoſe loyaltie late proffered for the good both of our King and Country, I thus relate.</p>
+            <p>The newes being arrived in <hi>Holland,</hi> of the Proteſtants in <hi>Irelands</hi> calamity, they, the States of <hi>Holland,</hi> were very much grieved, as if that they had been partakers of the others miſerie.</p>
+            <p>And truly, ſo it doth behove each well-affe<g ref="char:EOLhyphen"/>cted Chriſtian, who is ambitious of nothing, but to embrace true Pietie, to aſſiſt and ayd his friend being in adverſitie.</p>
+            <p>The heathen Queen <hi>Dido</hi> having been once in trouble her ſelf, did the rather give ear to the Trojan Prince <hi>Aeneas</hi> his misfortunes, ſaying thus;
+<q>— <hi>Miſeris ſuccurrere diſco.</hi>
+               </q>
+            </p>
+            <p>Having been in trouble my ſelf, I learn now to ſuccour thoſe which are troubled.</p>
+            <pb facs="tcp:156346:3"/>
+            <p> And yet there are a ſort of people in the world, which are friends to none but thoſe which are in proſperitie, which <hi>Ovid</hi> having had experience of, writ thus;
+<q>
+                  <l>
+                     <hi>Donec ſaelix multos numerabis amicos,</hi>
+                  </l>
+                  <l>
+                     <hi>Tempora ſi fuerint nubila, ſolus eris.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>As long as a man is happie, that is, worldly rich, he ſhall be ſure to want no friends: but his proſperitie being eclipſed with clouds of ad<g ref="char:EOLhyphen"/>verſitie, then his former ſycophanrs will anſwer him, with a truely I have forgot you.</p>
+            <p>But the <hi>Hollanders</hi> prove themſelves to be of another Nature, making this loving proffer.</p>
+            <p>That if they might have priviledge to fight upon his Majeſties Seas, there ſhould neither paſſe by them, <hi>Spaniſh</hi> or <hi>French</hi> fleet, to do either the Proteſtants of <hi>England</hi> or <hi>Ireland</hi> any harm.</p>
+            <p>Thus they proffered not when the Prote<g ref="char:EOLhyphen"/>ſtants of <hi>Ireland</hi> were in proſperitie, but now being in adverſitie, which is true friendſhip in<g ref="char:EOLhyphen"/>deed, and now to make their proffer good, they have proceeded to action.</p>
+            <p>Thirtie of the <hi>Hollanders</hi> men of warre ſcou<g ref="char:EOLhyphen"/>ted up and down the Seas toward <hi>Dunkirk,</hi>
+               <pb facs="tcp:156346:4"/>becauſe it was reported in <hi>Holland,</hi> that a Navie was diſpatching from <hi>Dunkirk</hi> to aid the Rebels in <hi>Ireland.</hi>
+            </p>
+            <p>Whoſe Navie theſe Hollanders with their proſpective glaſſes diſcovered, and preſently diſ<g ref="char:EOLhyphen"/>patched their packet-boat unto Sir <hi>Iohn Pen<g ref="char:EOLhyphen"/>nington,</hi> Vice-Admirall of his Majeſties Seas, to know whether they ſhould ſet vpon them or not, who having no Commiſsion from the King or Parliament, gave them no Anſwer preſently, but firſt ſent Letters to know whether their paſſage ſhould be ſtopt or no, whoſe Anſwer was, that it ſhould.</p>
+            <p>Then to the ſame effect did Sir <hi>Iohn Penning<g ref="char:EOLhyphen"/>ton</hi> anſwer the Hollanders Meſſenger, of which they were as joyfull as the birds of the Spring, ſayling bravely towards them, to the great a<g ref="char:EOLhyphen"/>mazement of the Dunkirk Navie.</p>
+            <p>Who ſtood upon their guard as well as they could, but the Hollanders made ſuch havocke a<g ref="char:EOLhyphen"/>mongſt them, at length they had little courage to go to aſſiſt the Rebels in Ireland, having ſo much to do at home, the fight laſted above forty eight houres, many of the ſhips which be<g ref="char:EOLhyphen"/>longed to Dunkirk were taken, and many ſunk, to the eternall honour of the Hollanders, but diſgrace of themſelves: thus doth God revenge their cauſe which put their truſt in him.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:156346:4"/>
+            <head>THE HUMBLE Petition of the inhabitants of the Connty of Eſſex.</head>
+            <head type="sub">To the Honourable Knights and Burgeſſes of the Houſe of COMMONS in Parliament.</head>
+            <head type="sub">The humble Petition of the Knights, Gentle<g ref="char:EOLhyphen"/>men, Miniſters, and other Inhabitants in the County of <hi>Eſſex.</hi>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>UNto your Honorable Houſe, that we are truly ſen<g ref="char:EOLhyphen"/>ſible of your great care, and extraordinary endea<g ref="char:EOLhyphen"/>vours, to ſettle our Religion, and Peace, and daily give thanks to God Almighty for it; And we do further in all humility preſent to your Honourable conſidera<g ref="char:EOLhyphen"/>ions, which wee do apprehend a great ſtop in Refor<g ref="char:EOLhyphen"/>mation of matters of Religion, and our ſelves together with you, and the whole Kingdome, to be in great dan<g ref="char:EOLhyphen"/>ger of the Papiſts, and other ill-affected perſons, who are every where very infolent, and are ready to act the parts of thoſe cruell blood-ſuckers in <hi>Ireland,</hi> if they be not ſpeedily prevented: by means whereof our Tra<g ref="char:EOLhyphen"/>ding, eſpecially of Clothing, and Farming, grew a great pace, to ſo great a damp, as many thouſands are like to come to ſuddain want. Nor can we expect any redreſſe therof, unleſſe the Biſhops and Popiſh Lords be remo<g ref="char:EOLhyphen"/>ved out of the Houſe of Peers.</p>
+            <p>Therefore wee humbly pray, that you would ear<g ref="char:EOLhyphen"/>neſtly mediate His Majeſty and the Houſe of Peers,
+<pb facs="tcp:156346:5"/>That our Brethren in <hi>Ireland</hi> may ſpeedily be relieved, and the Papiſts throughout the Kingdome be diſar<g ref="char:EOLhyphen"/>med, and that ſuch defects of Arms, as in your diſcreti<g ref="char:EOLhyphen"/>ons, ſhall appeare to be meet, may be ſupplyed, and this County and Kingdom, put into ſuch a Warlike poſture, as may be beſt for its defence, and ſafety, and that the Biſhops, and Popiſh Lords who as wee conceive, have hindered the ſucceſſe of your Godly Endeavours, may be put out of the Houſe of Peeres: Not doubting but then our Petition formerly preſented to your Houſe, will receive a more full and ſpeedy Anſwer.</p>
+            <p>
+               <hi>And your Petitioners reſolving in all juſt and honourable wayes, according to the late Proteſtation, to aſſiſt you, with our lives, and Eſtates, againſt the Enemie of God, the King, and State, humbly pray to Almighty God, for your good ſucceſſe.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
